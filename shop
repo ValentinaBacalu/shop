@@ -1,0 +1,6 @@
+var magazin = {
+	  locatie: "centru",
+	  branduri: [ "HM", "Zara", "Bershka" ],
+	  program: "9-20",
+	  nrAngajati: 5,
+	  nrCase: 7};
